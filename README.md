@@ -4,8 +4,8 @@
 To begin, make sure you have python >= 3.8.x with pip installed on your machine and *GIT*. 
 
 There are 2 installer files that can be used to get your system setup depending on what platform you're working on.
- - If you're operating on a windows machine, use the [am_installer.ps1](blob/main/am_installer.ps1) file.
- - If you're operating on a Mac or Linux machine, use the [am_installer.sh](blob/main/am_installer.sh) file.
+ - If you're operating on a windows machine, use the [am_installer.ps1](am_installer.ps1) file.
+ - If you're operating on a Mac or Linux machine, use the [am_installer.sh](am_installer.sh) file.
 
 ### Running the Agent
 First, make sure your python environment is activated. You should see `(coderone)` at the start of your terminal prompt if the session is active.  
